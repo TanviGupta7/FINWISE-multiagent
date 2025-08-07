@@ -38,6 +38,7 @@ Agents leverage Groq, yFinance, DuckDuckGo, and other tools to perform tasks int
      c). AI-driven investment advisory
 
 **⚙️ Setup Instructions**
+
 **1. Clone the Repository**
 git clone https://github.com/your-username/financial-analyst-multi-agentic-playground.git
 cd financial-analyst-multi-agentic-playground
@@ -47,8 +48,11 @@ pip install -r requirements.txt
 
 **3. Configure Environment Variables**
 Create a .env file in the root directory with the following:
+
 a)- GROQ_API_KEY=your_groq_key
+
 b)- PHI_API=your phidata api key
+
 (Optional: Include other API keys like OPENAI_API_KEY if needed by dependencies.)
 
 **4. Run the Application**
