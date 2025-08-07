@@ -33,8 +33,11 @@ Agents leverage Groq, yFinance, DuckDuckGo, and other tools to perform tasks int
 
 **📌 Goals**
 1. To explore how multi-agent systems can assist in:
+   
      a). Financial decision-making
+   
      b). Market insights
+   
      c). AI-driven investment advisory
 
 **⚙️ Setup Instructions**
@@ -59,9 +62,13 @@ b)- PHI_API=your phidata api key
 python main.py
 
 **🚀 Use Cases**
+
 📊 Portfolio management simulations
+
 📰 Real-time financial reporting
+
 🤖 Research automation for traders and analysts
+
 🧠 Building agentic financial advisory systems
 
 📌 **Notes**
